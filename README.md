@@ -1,5 +1,5 @@
 
-1-Alert
+
 1-Alert is a mobile application which is currently supported by the Android OS. This application in conjunction with the analytical model has been developed as a part of my thesis project during my post graduation in Business Analytics.
 
 Factors such as rise in need for safety and security solutions, owing to increase in natural calamities because of climate change & terrorist attacks, implementation of regulatory policies for public safety, and necessity of emergency preparedness are providing impetus for the growth of the global disaster and emergency management market. During disasters in particular, the situation is chaotic and disorganized. In the absence of ground-level information about the victims stranded in such disasters, the responding authorities often mobilize the resources based on intuition. As a result of this, the already limited resources are sometimes wasted or they do not reach the victim who is in a critical need of them. Different authorities like fire departments, hospitals, security and police forces etc. work in distinct jurisdiction and out of synchronization.
